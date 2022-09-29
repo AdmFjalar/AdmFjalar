@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @AdmFjalar
-- 📫 You can contact me at adm.fjalar@gmail.com
+- 📫 You can e-mail me at oliver@gronkrans.com
+- 💬 You can contact me on Threema with Z8UDJ5N3
