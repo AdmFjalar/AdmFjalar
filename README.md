@@ -39,11 +39,11 @@ Passionate about privacy and OSS.
 
 ### Security & Networking 
 
-![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-0099FF?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF6600?logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-0099FF?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF6600?logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white) ![Unifi](https://img.shields.io/badge/Unifi-0078D7?logo=unifi&logoColor=white)
 
 ### Tools 
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Unifi](https://img.shields.io/badge/Unifi-0078D7?logo=unifi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### Operating Systems 
 
