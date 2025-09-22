@@ -34,7 +34,7 @@ Passionate about privacy and OSS.
 **Virtualisation**: Proxmox VE (hosting the VM and several personal services) 
 
 ## Contact me - 
-✉**Email:** [oliver@gronkrans.com](mailto:oliver@gronkrans.com)
+**Email:** [oliver@gronkrans.com](mailto:oliver@gronkrans.com)
 **LinkedIn:** [linkedin.com/in/olivergronkrans](https://www.linkedin.com/in/olivergronkrans)
 **Threema:** `Z8UDJ5N3`
 **Portfolio:** [oliver.gronkrans.com](https://oliver.gronkrans.com)
