@@ -1,8 +1,8 @@
 # Hi, I’m Oliver Grönkrans 
 
-> **Aspiring Security Engineer** 
+> **Aspiring Software Engineer** 
 
-Passionate about privacy and OSS.
+Interested in OSS, systems- and embedded development.
 
 ## Contact me - 
 **Email:** [oliver@gronkrans.com](mailto:oliver@gronkrans.com)
